@@ -1,6 +1,6 @@
 [
   {
     "package": "frenchdata",
-    "oncran": false
+    "oncran": true
   }
 ]
