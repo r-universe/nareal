@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/nareal/universe
-	shallow = true
 	branch = HEAD
 [submodule "frenchdata"]
 	path = frenchdata
 	url = https://github.com/nareal/frenchdata
-	shallow = true
-	registered = true
