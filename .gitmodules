@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/nareal/universe
+	url = https://github.com/nareal/nareal.r-universe.dev
 	branch = HEAD
 [submodule "frenchdata"]
 	path = frenchdata
